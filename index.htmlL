@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agrinho 2026</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="header">
+    <h1>🌱 Agro Forte e um Futuro Sustentável</h1>
+    <p>Campo e cidade trabalhando juntos</p>
+</header>
+
+<section class="card">
+    <h2>Sobre o Projeto</h2>
+
+    <p>
+        O projeto Agro Forte e um Futuro Sustentável mostra a importância da agricultura
+        para a vida das pessoas e para a economia do país.
+    </p>
+
+    <p>
+        O campo é responsável por produzir alimentos, gerar empregos e movimentar a economia.
+        Já a cidade depende diretamente dessa produção para viver.
+    </p>
+
+    <p>
+        Por isso, é essencial investir em sustentabilidade, cuidando da água, do solo e da natureza,
+        garantindo um futuro melhor para todos.
+    </p>
+</section>
+
+<footer>
+    <p>🌾 Agrinho 2026 - Projeto Escolar</p>
+</footer>
+
+</body>
+</html>
