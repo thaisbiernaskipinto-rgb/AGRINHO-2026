@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(120deg, #e8f5e9, #f1f8e9);
+    color: #2e2e2e;
+}
+
+/* Cabeçalho bonito */
+.header {
+    background: linear-gradient(90deg, #2e7d32, #43a047);
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 28px;
+}
+
+.header p {
+    margin-top: 10px;
+}
+
+/* Card do texto */
+.card {
+    background: white;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    line-height: 1.6;
+}
+
+/* Título */
+.card h2 {
+    color: #2e7d32;
+}
+
+/* Rodapé */
+footer {
+    text-align: center;
+    padding: 15px;
+    background: #1b5e20;
+    color: white;
+    margin-top: 40px;
+}
